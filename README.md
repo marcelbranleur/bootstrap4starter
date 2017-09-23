@@ -5,12 +5,13 @@ Version
 
 1.0.0
 
-Install Dependencies
+### Install Dependencies ###
 
 `npm install`
 
 
-Compile Sass & Run Dev Server
+
+### Compile Sass & Run Dev Server ###
 
 `npm start`
 
