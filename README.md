@@ -1,4 +1,4 @@
-:computer: # bootstrap4starter #
+:computer:
 Starter Pack for Bootstrap 4.0.0-alpha.6
 
 Version 1.0.0
