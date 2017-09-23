@@ -6,9 +6,9 @@ Version
 1.0.0
 
 Install Dependencies
-code(npm install)
+`npm install`
 
 
 Compile Sass & Run Dev Server
-code(npm start)
+`npm start`
 Files are compiled into /src
